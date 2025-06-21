@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.23)  21 JUN 2025 16:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.23)  21 JUN 2025 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"c:/Users/acdcg/OneDrive/Área de Trabalho/Nova pasta/ficha.tex"
-(c:/Users/acdcg/OneDrive/Área de Trabalho/Nova pasta/ficha.tex
+**"c:/Users/acdcg/OneDrive/Área de Trabalho/Portal/RPG/ICRPG/Ficha ICRPG/ficha.tex"
+(c:/Users/acdcg/OneDrive/Área de Trabalho/Portal/RPG/ICRPG/Ficha ICRPG/ficha.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
 (C:\Users\acdcg\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -607,14 +607,14 @@ Package rerunfilecheck Info: File `ficha.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  23321 strings out of 473899
- 453067 string characters out of 5726500
+ 453229 string characters out of 5726500
  815721 words of memory out of 5000000
  45840 multiletter control sequences out of 15000+600000
  570267 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,18n,107p,462b,1037s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,18n,107p,480b,1037s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/acdcg/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/acdcg/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/acdcg/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on ficha.pdf (2 pages, 773955 bytes).
+Output written on ficha.pdf (2 pages, 775405 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)

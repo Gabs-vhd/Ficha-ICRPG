@@ -1,0 +1,20 @@
+# Arquivos de log e auxiliares do LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Pasta de output do minted (se usar)
+_minted/
+
+# Visualizadores e arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Opcional: Descomente a linha abaixo se NÃO quiser versionar o PDF final
+# *.pdf

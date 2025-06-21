@@ -1,6 +1,6 @@
-PWD c:\Users\acdcg\OneDrive\Área de Trabalho\Nova pasta
+PWD c:\Users\acdcg\OneDrive\Área de Trabalho\Portal\RPG\ICRPG\Ficha ICRPG
 INPUT C:\Users\acdcg\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\acdcg\OneDrive\Área de Trabalho\Nova pasta\ficha.tex
+INPUT c:\Users\acdcg\OneDrive\Área de Trabalho\Portal\RPG\ICRPG\Ficha ICRPG\ficha.tex
 OUTPUT ficha.log
 INPUT C:\Users\acdcg\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\acdcg\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
