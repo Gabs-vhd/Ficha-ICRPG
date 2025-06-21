@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.23)  21 JUN 2025 16:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.23)  21 JUN 2025 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -538,13 +538,13 @@ Overfull \hbox (4.63164pt too wide) in paragraph at lines 157--158
 []|[]| 
  []
 
-<Turner.jpg, id=27, 738.76pt x 1108.14pt>
-File: Turner.jpg Graphic file (type jpg)
-<use Turner.jpg>
-Package pdftex.def Info: Turner.jpg  used on input line 163.
-(pdftex.def)             Requested size: 170.71156pt x 170.71158pt.
+<veronica.png, id=27, 675.52374pt x 1204.5pt>
+File: veronica.png Graphic file (type png)
+<use veronica.png>
+Package pdftex.def Info: veronica.png  used on input line 163.
+(pdftex.def)             Requested size: 170.71527pt x 227.60759pt.
 
-Overfull \hbox (49.7401pt too wide) in paragraph at lines 165--166
+Overfull \hbox (49.74382pt too wide) in paragraph at lines 165--166
 []|[]| 
  []
 
@@ -582,7 +582,7 @@ Package pdftex.def Info: parchment.png  used on input line 231.
 (pdftex.def)             Requested size: 597.54486pt x 845.10541pt.
 [1
 
-{C:/Users/acdcg/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/acdcg/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./parchment.png> <./Turner.jpg>]
+{C:/Users/acdcg/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/acdcg/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./parchment.png> <./veronica.png>]
 Overfull \hbox (15.0pt too wide) in paragraph at lines 248--249
 [][][][][] 
  []
@@ -606,15 +606,15 @@ Package rerunfilecheck Info: File `ficha.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23321 strings out of 473899
- 453229 string characters out of 5726500
+ 23323 strings out of 473899
+ 453295 string characters out of 5726500
  815721 words of memory out of 5000000
- 45840 multiletter control sequences out of 15000+600000
+ 45842 multiletter control sequences out of 15000+600000
  570267 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,18n,107p,480b,1037s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/acdcg/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/acdcg/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/acdcg/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on ficha.pdf (2 pages, 775405 bytes).
+Output written on ficha.pdf (2 pages, 766981 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)

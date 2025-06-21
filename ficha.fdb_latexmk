@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1750535316.47065 "c:/Users/acdcg/OneDrive/Área de Trabalho/Portal/RPG/ICRPG/Ficha ICRPG/ficha.tex" "ficha.pdf" "ficha" 1750535317.6608 0
+["pdflatex"] 1750536052.8594 "c:/Users/acdcg/OneDrive/Área de Trabalho/Portal/RPG/ICRPG/Ficha ICRPG/ficha.tex" "ficha.pdf" "ficha" 1750536054.18151 0
   "C:/Users/acdcg/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1750534803 377457 d69c54cfc0ce660e271bb97497956d2b ""
   "C:/Users/acdcg/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1727137773 11948197 c76647f4b39318af846341226594357a ""
   "C:/Users/acdcg/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -146,13 +146,13 @@
   "C:/Users/acdcg/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/acdcg/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/acdcg/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Turner.jpg" 1747097719 96758 930e7f97c4856480fcff39300909fa83 ""
   "c:/Users/acdcg/OneDrive/Área" 1727139287 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "c:/Users/acdcg/OneDrive/Área de Trabalho/Portal/RPG/ICRPG/Ficha ICRPG/ficha.tex" 1750535314 6069 818dffc3bac05d53cb3862c85b4b5cea ""
-  "ficha.aux" 1750535317 920 16956906db842b35c1218d834a3aeb93 "pdflatex"
-  "ficha.out" 1750535317 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "ficha.tex" 1750535314 6069 818dffc3bac05d53cb3862c85b4b5cea ""
+  "c:/Users/acdcg/OneDrive/Área de Trabalho/Portal/RPG/ICRPG/Ficha ICRPG/ficha.tex" 1750536052 6069 a4c173040a61fa33f17c67f7c12ffa05 ""
+  "ficha.aux" 1750536054 920 16956906db842b35c1218d834a3aeb93 "pdflatex"
+  "ficha.out" 1750536053 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "ficha.tex" 1750536052 6069 a4c173040a61fa33f17c67f7c12ffa05 ""
   "parchment.png" 1750533539 722374 722823ad5532e3df8f05267378d14305 ""
+  "veronica.png" 1750528027 88338 e31853caa3ea4bb1bdfb5f29a1bef5b4 ""
   (generated)
   "ficha.aux"
   "ficha.log"
